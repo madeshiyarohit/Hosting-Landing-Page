@@ -20,4 +20,4 @@ In this project i have created a Hosting landing page from scratch. And i have l
 
 ### You can Check it Live on Below Link :
 
-[My Portfolio Website !](https://hosting-landing-page.netlify.app/)
+[Live Link !](https://hosting-landing-page.netlify.app/)
